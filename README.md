@@ -17,7 +17,7 @@ File Narkotika.zip mencakup 50 dokumen PDF, dengan detail berikut dalam setiap d
 
   - *Nomor Putusan*: Nomor identitas untuk setiap perkara.
   - *Lembaga Peradilan*: Nama Pengadilan Negeri yang mengeluarkan putusan.
-  - *Barang Bukti*: Deskripsi barang bukti yang ditemukan, seperti narkotika atau perangkat lainnya.
+  - *Barang Bukti*: Deskripsi barang bukti yang ditemukan seperti narkotika atau perangkat lainnya.
   - *Amar Putusan*: Detail amar putusan yang mencakup hukuman pidana, denda, dan instruksi pengadilan.
 
 ### 2. Ringkasan Dataset
@@ -28,7 +28,7 @@ Berkas Overview.xlsx berfungsi sebagai metadata yang merangkum setiap putusan de
   - *Nomor Putusan*: Nomor perkara yang dirumuskan sesuai format pengadilan.
   - *Nama Pengadilan*: Pengadilan Negeri yang menangani kasus.
   - *Barang Bukti*: Deskripsi barang bukti dalam kasus tersebut.
-  - *Amar Putusan*: Ringkasan dari hasil putusan, termasuk pidana yang dijatuhkan.
+  - *Amar Putusan*: Ringkasan dari hasil putusan termasuk pidana yang dijatuhkan.
 
 ### Cara Akses dan Penggunaan Dataset
 
