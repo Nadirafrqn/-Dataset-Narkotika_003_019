@@ -2,7 +2,7 @@
 
 ## Tentang Dataset Putusan Pengadilan Narkotika
 
-Repositori ini berisi dataset putusan pengadilan terkait tindak pidana narkotika dan psikotropika di Indonesia yang diambil secara manual dari website *Direktori Putusan Mahkamah Agung RI*: https://putusan3.mahkamahagung.go.id/direktori.html. Data ini dikumpulkan dari direktori pidana khusus pada Pengadilan Negeri Lamongan. Dataset mencakup 50 dokumen putusan yang dirangkum dalam format .pdf dengan rentang tahun 2023–2024.
+Berisi dataset putusan pengadilan terkait tindak pidana narkotika dan psikotropika di Indonesia yang diambil secara manual dari website *Direktori Putusan Mahkamah Agung RI*: https://putusan3.mahkamahagung.go.id/direktori.html. Data ini dikumpulkan dari direktori pidana khusus pada Pengadilan Negeri Lamongan. Dataset mencakup 50 dokumen putusan yang dirangkum dalam format .pdf dengan rentang tahun 2023–2024.
 
 ## Fitur Dataset
 
