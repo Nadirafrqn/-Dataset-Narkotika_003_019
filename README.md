@@ -13,7 +13,7 @@ Berisi dataset putusan pengadilan terkait tindak pidana narkotika dan psikotropi
 ## Isi Dataset
 
 ### 1. Dokumen Putusan Pengadilan
-File Narkotika.zip mencakup 50 dokumen PDF, dengan detail berikut dalam setiap dokumen:
+File Narkotika.zip mencakup 50 dokumen PDF dengan detail sebagai berikut:
 
   - Nomor Putusan: Nomor identitas untuk setiap perkara.
   - Lembaga Peradilan: Nama Pengadilan Negeri yang mengeluarkan putusan.
